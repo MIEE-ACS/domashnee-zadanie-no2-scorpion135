@@ -143,3 +143,5 @@ namespace ConsoleApp1
                 value_finder(R1, R2, x);
             }
         }
+    }
+}
